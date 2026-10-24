@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/clay",
+    "up": "jujutsucraftv:block/clay",
+    "north": "jujutsucraftv:block/clay",
+    "east": "jujutsucraftv:block/clay",
+    "south": "jujutsucraftv:block/clay",
+    "west": "jujutsucraftv:block/clay",
+    "particle": "jujutsucraftv:block/clay"
+  },
+  "render_type": "solid"
+}

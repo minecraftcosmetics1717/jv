@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/meat_hammer",
+  "textures": {
+    "1": "jujutsucraftv:block/meat_hummer",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/mimiko_doll",
+  "textures": {
+    "layer0": "jujutsucraftv:item/mimiko_doll"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/nihiladmirari",
+  "textures": {
+    "layer0": "jujutsucraftv:item/nihiladmiari"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "jujutsucraftv:tokyo_jujutsu_high_school",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 1,
+    "frequency_reduction_method": "default",
+    "salt": 846831065,
+    "spacing": 120,
+    "separation": 60
+  }
+}

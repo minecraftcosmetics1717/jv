@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/red_barrier_erosion_dirt",
+    "up": "jujutsucraftv:block/red_barrier_erosion_dirt",
+    "north": "jujutsucraftv:block/red_barrier_erosion_dirt",
+    "east": "jujutsucraftv:block/red_barrier_erosion_dirt",
+    "south": "jujutsucraftv:block/red_barrier_erosion_dirt",
+    "west": "jujutsucraftv:block/red_barrier_erosion_dirt",
+    "particle": "jujutsucraftv:block/red_barrier_erosion_dirt"
+  },
+  "render_type": "solid"
+}

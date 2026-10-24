@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/vibraslap",
+  "textures": {
+    "layer0": "jujutsucraftv:item/vibraslap"
+  }
+}

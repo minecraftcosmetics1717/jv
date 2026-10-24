@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/rock_barrier_tree",
+    "up": "jujutsucraftv:block/rock_barrier_tree",
+    "north": "jujutsucraftv:block/rock_barrier_tree",
+    "east": "jujutsucraftv:block/rock_barrier_tree",
+    "south": "jujutsucraftv:block/rock_barrier_tree",
+    "west": "jujutsucraftv:block/rock_barrier_tree",
+    "particle": "jujutsucraftv:block/rock_barrier_tree"
+  },
+  "render_type": "solid"
+}

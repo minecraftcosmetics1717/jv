@@ -1,0 +1,123 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"animation_length": 4.8,
+			"bones": {
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [0, -2, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone4": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [5, 0, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"heir": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [7.5, 0, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"heir9": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [2.5, 0, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"heir11": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [5, 0, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"heir3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [5, 0, 0]
+						},
+						"4.8": {
+							"vector": [-2.5, 0, 0]
+						}
+					}
+				},
+				"heir5": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [5, 0, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"heir7": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [12.5, 0, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"vector": [0, "math.sin(query.anim_time * 150) * (360 + (query.life_time % 360))", 0]
+					},
+					"position": {
+						"vector": [0, "-5+Math.sin(query.anim_time*45)*-5", 0]
+					}
+				}
+			}
+		}
+	}
+}

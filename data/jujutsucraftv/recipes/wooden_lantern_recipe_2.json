@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraftv:wooden_lantern"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraftv:slightly_bright_wooden_lantern",
+    "count": 1
+  }
+}

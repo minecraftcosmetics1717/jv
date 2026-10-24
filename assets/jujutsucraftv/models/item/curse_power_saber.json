@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/curse_power_saber",
+  "textures": {
+    "layer0": "jujutsucraftv:item/curse_power_saber1"
+  }
+}

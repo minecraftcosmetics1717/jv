@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:snowy_plains",
+    "minecraft:sunflower_plains",
+    "minecraft:savanna_plateau",
+    "minecraft:swamp",
+    "jujutsucraftv:jujutsu_plain"
+  ]
+}

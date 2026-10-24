@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "jujutsucraftv:clothes_maruru_2_helmet"
+    }
+  },
+  "result": {
+    "item": "jujutsucraftv:clothes_maruru_helmet",
+    "count": 1
+  }
+}

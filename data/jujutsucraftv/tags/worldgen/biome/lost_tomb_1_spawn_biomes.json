@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cherry_grove",
+    "minecraft:dark_forest",
+    "minecraft:forest",
+    "minecraft:snowy_plains",
+    "minecraft:taiga",
+    "minecraft:swamp",
+    "minecraft:plains",
+    "jujutsucraftv:jujutsu_plain"
+  ]
+}

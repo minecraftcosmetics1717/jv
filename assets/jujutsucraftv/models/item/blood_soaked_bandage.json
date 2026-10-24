@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/blood_soaked_bandage",
+  "textures": {
+    "2": "jujutsucraftv:block/blood_soaked_bandage",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

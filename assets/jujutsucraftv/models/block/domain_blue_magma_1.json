@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/blue_magma",
+    "up": "jujutsucraftv:block/blue_magma",
+    "north": "jujutsucraftv:block/blue_magma",
+    "east": "jujutsucraftv:block/blue_magma",
+    "south": "jujutsucraftv:block/blue_magma",
+    "west": "jujutsucraftv:block/blue_magma",
+    "particle": "jujutsucraftv:block/blue_magma"
+  },
+  "render_type": "solid"
+}

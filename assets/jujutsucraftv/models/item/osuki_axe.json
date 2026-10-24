@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/osuki_axe",
+  "textures": {
+    "2": "jujutsucraftv:block/osuki_axe",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

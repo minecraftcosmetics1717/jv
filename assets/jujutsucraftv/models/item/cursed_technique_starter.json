@@ -1,0 +1,8 @@
+{
+  "parent": "jujutsucraftv:custom/mythicalbeastamber_head",
+  "textures": {
+    "0": "jujutsucraftv:block/curse_power",
+    "1": "jujutsucraftv:block/curse_power",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

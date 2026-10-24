@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#jujutsucraftv:advanced_worldgen_disabled",
+  "features": "jujutsucraftv:rock_barrier_tree_set",
+  "step": "surface_structures"
+}

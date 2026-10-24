@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#jujutsucraftv:advanced_worldgen_disabled",
+  "features": "jujutsucraftv:decorative_rocks",
+  "step": "surface_structures"
+}

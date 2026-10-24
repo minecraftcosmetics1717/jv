@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jujutsucraftv:block/jujutsu_laptop"
+    },
+    "facing=east": {
+      "model": "jujutsucraftv:block/jujutsu_laptop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jujutsucraftv:block/jujutsu_laptop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jujutsucraftv:block/jujutsu_laptop",
+      "y": 270
+    }
+  }
+}

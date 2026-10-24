@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:cursed_technique_starter"
+    },
+    "title": {
+      "translate": "jjcv.skill.rozetsu.8"
+    },
+    "description": {
+      "translate": "advancements.battle_aoi_todo.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_rozetsu_4": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_rozetsu_2"
+}

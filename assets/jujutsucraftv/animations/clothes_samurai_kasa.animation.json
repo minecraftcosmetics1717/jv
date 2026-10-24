@@ -1,0 +1,35 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"animation_length": 5,
+			"bones": {
+				"kasa": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					},
+					"scale": {
+						"vector": [0.8, 0.8, 0.8]
+					}
+				},
+				"armorHead": {
+					"rotation": {
+						"0.0": {
+							"vector": [12.5, 0, 0]
+						},
+						"2.0": {
+							"vector": [7.5, 0, 0]
+						},
+						"5.0": {
+							"vector": [12.5, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	}
+}

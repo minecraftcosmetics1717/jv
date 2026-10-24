@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "jujutsucraftv:block/redstone_lamp_on",
+    "bottom": "jujutsucraftv:block/redstone_lamp_on",
+    "top": "jujutsucraftv:block/redstone_lamp_on",
+    "side": "jujutsucraftv:block/redstone_lamp_on"
+  },
+  "render_type": "solid"
+}

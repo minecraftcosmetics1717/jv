@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:icon_dabura_light"
+    },
+    "title": [
+      {
+        "text": "\uE210"
+      },
+      {
+        "translate": "jjcv.skill.dabura.1"
+      }
+    ],
+    "description": {
+      "translate": "jjcv.adv.skill_dabura_0b"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_dabura_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:jujutsu_craft_skills"
+}

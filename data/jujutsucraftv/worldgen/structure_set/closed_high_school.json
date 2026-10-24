@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "jujutsucraftv:closed_high_school",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 1,
+    "frequency_reduction_method": "default",
+    "salt": 386059358,
+    "spacing": 80,
+    "separation": 50
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/yakumaru_gun",
+  "textures": {
+    "0": "jujutsucraftv:block/yakumaru_gun",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

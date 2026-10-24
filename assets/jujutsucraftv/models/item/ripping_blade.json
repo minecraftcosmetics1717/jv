@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/ripping_blade",
+  "textures": {
+    "layer0": "jujutsucraftv:item/ripping_blade"
+  }
+}

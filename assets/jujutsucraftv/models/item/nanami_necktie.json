@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/nanami_necktie",
+  "textures": {
+    "1": "jujutsucraftv:block/nanami_necktie",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:rozetsu_hand",
+      "nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1s}],HideFlags:1}"
+    },
+    "title": {
+      "translate": "jjcv.skill.rozetsu.14"
+    },
+    "description": {
+      "translate": "jjcv.adv.gant_sorcerer_grade_1"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_rozetsu_6": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_rozetsu_0"
+}

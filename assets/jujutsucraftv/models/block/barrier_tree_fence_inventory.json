@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "jujutsucraftv:block/barrier_tree",
+    "particle": "jujutsucraftv:block/barrier_tree"
+  },
+  "render_type": "translucent"
+}

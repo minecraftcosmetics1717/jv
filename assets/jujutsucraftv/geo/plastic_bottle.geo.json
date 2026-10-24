@@ -1,0 +1,241 @@
+{
+	"format_version": "1.21.110",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.plastic_bottle",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bottle",
+					"pivot": [0, 5.0375, 0]
+				},
+				{
+					"name": "base",
+					"parent": "bottle",
+					"pivot": [0, 6.575, 0],
+					"cubes": [
+						{
+							"origin": [-0.9, 3, -0.9],
+							"size": [1.8, 0.25, 1.8],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [16, 32]},
+								"east": {"uv": [32, 0], "uv_size": [-16, 32], "uv_rotation": 90},
+								"south": {"uv": [16, 0], "uv_size": [16, 32]},
+								"west": {"uv": [16, 0], "uv_size": [16, 32]},
+								"up": {"uv": [12, 45], "uv_size": [-7, -7]},
+								"down": {"uv": [12, 45], "uv_size": [-7, -7]}
+							}
+						},
+						{
+							"origin": [-1, 0, -1],
+							"size": [2, 3, 2],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [16, 32]},
+								"east": {"uv": [16, 32], "uv_size": [16, -32], "uv_rotation": 180},
+								"south": {"uv": [16, 0], "uv_size": [16, 32]},
+								"west": {"uv": [16, 0], "uv_size": [16, 32]},
+								"up": {"uv": [16, 48], "uv_size": [-16, -16]},
+								"down": {"uv": [32, 48], "uv_size": [-16, -16]}
+							}
+						},
+						{
+							"origin": [-1, 3.25, -1],
+							"size": [2, 3, 2],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [16, 32]},
+								"east": {"uv": [16, 32], "uv_size": [16, -32], "uv_rotation": 180},
+								"south": {"uv": [16, 0], "uv_size": [16, 32]},
+								"west": {"uv": [16, 0], "uv_size": [16, 32]},
+								"up": {"uv": [16, 48], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 48], "uv_size": [-16, -16]}
+							}
+						},
+						{
+							"origin": [-0.75, 6.25, -0.75],
+							"size": [1.5, 0.25, 1.5],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [16, 2]},
+								"east": {"uv": [32, 0], "uv_size": [-16, 2], "uv_rotation": 90},
+								"south": {"uv": [16, 0], "uv_size": [16, 2]},
+								"west": {"uv": [16, 0], "uv_size": [16, 2]},
+								"up": {"uv": [16, 32], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 48], "uv_size": [-16, -16]}
+							}
+						},
+						{
+							"origin": [-0.5, 6.6, -0.5],
+							"size": [1, 0.75, 1],
+							"uv": {
+								"north": {"uv": [14, 48], "uv_size": [18, 16]},
+								"east": {"uv": [14, 64], "uv_size": [18, -16], "uv_rotation": 180},
+								"south": {"uv": [14, 48], "uv_size": [18, 16]},
+								"west": {"uv": [14, 48], "uv_size": [18, 16]},
+								"up": {"uv": [2, 64], "uv_size": [-2, -2]},
+								"down": {"uv": [16, 64], "uv_size": [-16, -16]}
+							}
+						},
+						{
+							"origin": [-0.55, 6.5, -0.55],
+							"size": [1.1, 0.15, 1.1],
+							"uv": {
+								"north": {"uv": [0, 62], "uv_size": [2, 2]},
+								"east": {"uv": [0, 64], "uv_size": [2, -2], "uv_rotation": 180},
+								"south": {"uv": [0, 62], "uv_size": [2, 2]},
+								"west": {"uv": [0, 62], "uv_size": [2, 2]},
+								"up": {"uv": [2, 64], "uv_size": [-2, -2]},
+								"down": {"uv": [16, 64], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "label",
+					"parent": "bottle",
+					"pivot": [0.025, 3.75, -0.025]
+				},
+				{
+					"name": "label1",
+					"parent": "label",
+					"pivot": [0.025, 3.75, -0.025],
+					"cubes": [
+						{
+							"origin": [-1.025, 3.75, -1.025],
+							"size": [2.05, 2, 2.05],
+							"uv": {
+								"north": {"uv": [32, 32], "uv_size": [32, 32]},
+								"east": {"uv": [62, 64], "uv_size": [2, -32], "uv_rotation": 180},
+								"south": {"uv": [32, 32], "uv_size": [32, 32]},
+								"west": {"uv": [62, 32], "uv_size": [2, 32]},
+								"up": {"uv": [10, 44], "uv_size": [-6, -7]},
+								"down": {"uv": [10, 44], "uv_size": [-6, -7]}
+							}
+						}
+					]
+				},
+				{
+					"name": "label2",
+					"parent": "label",
+					"pivot": [0.025, 3.75, -0.025],
+					"cubes": [
+						{
+							"origin": [-1.025, 1.75, -1.025],
+							"size": [2.05, 2, 2.05],
+							"uv": {
+								"north": {"uv": [34, 32], "uv_size": [30, 30]},
+								"east": {"uv": [50, 62], "uv_size": [10, -30], "uv_rotation": 180},
+								"south": {"uv": [34, 32], "uv_size": [30, 30]},
+								"west": {"uv": [50, 32], "uv_size": [10, 30]},
+								"up": {"uv": [10, 44], "uv_size": [-6, -7]},
+								"down": {"uv": [10, 44], "uv_size": [-6, -7]}
+							}
+						},
+						{
+							"origin": [-1.025, 3.75, -1.025],
+							"size": [2.05, 2, 2.05],
+							"uv": {
+								"north": {"uv": [34, 32], "uv_size": [30, 30]},
+								"east": {"uv": [50, 62], "uv_size": [10, -30], "uv_rotation": 180},
+								"south": {"uv": [34, 32], "uv_size": [30, 30]},
+								"west": {"uv": [50, 32], "uv_size": [10, 30]},
+								"up": {"uv": [10, 44], "uv_size": [-6, -7]},
+								"down": {"uv": [10, 44], "uv_size": [-6, -7]}
+							}
+						}
+					]
+				},
+				{
+					"name": "label3",
+					"parent": "label",
+					"pivot": [0.025, 3.75, -0.025],
+					"cubes": [
+						{
+							"origin": [-1.025, 3, -1.025],
+							"size": [2.05, 2, 2.05],
+							"uv": {
+								"north": {"uv": [32, 32], "uv_size": [32, 32]},
+								"east": {"uv": [52, 64], "uv_size": [8, -32], "uv_rotation": 180},
+								"south": {"uv": [32, 32], "uv_size": [32, 32]},
+								"west": {"uv": [60, 32], "uv_size": [-8, 32]},
+								"up": {"uv": [10, 44], "uv_size": [-6, -7]},
+								"down": {"uv": [10, 44], "uv_size": [-6, -7]}
+							}
+						},
+						{
+							"origin": [-1.025, 5, -1.025],
+							"size": [2.05, 0.75, 2.05],
+							"uv": {
+								"north": {"uv": [32, 64], "uv_size": [32, -10]},
+								"east": {"uv": [54, 44], "uv_size": [8, 8], "uv_rotation": 180},
+								"south": {"uv": [32, 64], "uv_size": [32, -10]},
+								"west": {"uv": [54, 44], "uv_size": [8, 8], "uv_rotation": 180},
+								"up": {"uv": [4, 44], "uv_size": [6, -7]},
+								"down": {"uv": [4, 44], "uv_size": [6, -7]}
+							}
+						},
+						{
+							"origin": [-1.025, 2.25, -1.025],
+							"size": [2.05, 0.75, 2.05],
+							"uv": {
+								"north": {"uv": [64, 54], "uv_size": [-32, 10]},
+								"east": {"uv": [54, 52], "uv_size": [8, -8], "uv_rotation": 180},
+								"south": {"uv": [64, 54], "uv_size": [-32, 10]},
+								"west": {"uv": [54, 52], "uv_size": [8, -8], "uv_rotation": 180},
+								"up": {"uv": [4, 44], "uv_size": [6, -7]},
+								"down": {"uv": [4, 44], "uv_size": [6, -7]}
+							}
+						}
+					]
+				},
+				{
+					"name": "drink",
+					"parent": "bottle",
+					"pivot": [0, 3.5, 0],
+					"cubes": [
+						{
+							"origin": [-0.9, 0.1, -0.9],
+							"size": [1.8, 2.8, 1.8],
+							"uv": {
+								"north": {"uv": [32, 0], "uv_size": [32, 32]},
+								"east": {"uv": [32, 0], "uv_size": [32, 32], "uv_rotation": 180},
+								"south": {"uv": [32, 0], "uv_size": [32, 32]},
+								"west": {"uv": [32, 0], "uv_size": [32, 32]},
+								"up": {"uv": [32, 0], "uv_size": [32, 32]},
+								"down": {"uv": [64, 0], "uv_size": [-32, 32]}
+							}
+						},
+						{
+							"origin": [-0.9, 3.3, -0.9],
+							"size": [1.8, 2.8, 1.8],
+							"uv": {
+								"north": {"uv": [32, 0], "uv_size": [32, 32]},
+								"east": {"uv": [32, 0], "uv_size": [32, 32], "uv_rotation": 180},
+								"south": {"uv": [32, 0], "uv_size": [32, 32]},
+								"west": {"uv": [32, 0], "uv_size": [32, 32]},
+								"up": {"uv": [32, 0], "uv_size": [32, 32]},
+								"down": {"uv": [64, 0], "uv_size": [-32, 32]}
+							}
+						},
+						{
+							"origin": [-0.8, 2.9, -0.8],
+							"size": [1.6, 0.4, 1.6],
+							"uv": {
+								"north": {"uv": [32, 0], "uv_size": [32, 32]},
+								"east": {"uv": [32, 0], "uv_size": [32, 32], "uv_rotation": 180},
+								"south": {"uv": [32, 0], "uv_size": [32, 32]},
+								"west": {"uv": [32, 0], "uv_size": [32, 32]},
+								"up": {"uv": [6, 38], "uv_size": [4, 5]},
+								"down": {"uv": [10, 38], "uv_size": [-4, 5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

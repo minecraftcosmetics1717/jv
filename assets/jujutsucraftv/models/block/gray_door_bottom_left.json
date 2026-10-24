@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "particle": "jujutsucraftv:block/grey_door_top",
+    "bottom": "jujutsucraftv:block/grey_door_bottom",
+    "top": "jujutsucraftv:block/grey_door_top"
+  },
+  "render_type": "solid"
+}

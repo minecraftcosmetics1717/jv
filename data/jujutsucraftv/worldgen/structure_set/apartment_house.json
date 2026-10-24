@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "jujutsucraftv:apartment_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 1,
+    "frequency_reduction_method": "default",
+    "salt": 773317075,
+    "spacing": 70,
+    "separation": 50
+  }
+}

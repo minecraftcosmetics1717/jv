@@ -1,0 +1,47 @@
+{
+	"format_version": "1.21.110",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.ripping_blade",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "sword2",
+					"pivot": [0, 1.49724, 0.17432]
+				},
+				{
+					"name": "left_scissors",
+					"parent": "sword2",
+					"pivot": [0, 5.95674, 0.85708],
+					"rotation": [0, 90, 0],
+					"cubes": [
+						{
+							"origin": [-0.23257, -0.5, 0.85708],
+							"size": [4, 32, 0],
+							"uv": {
+								"north": {"uv": [64, 64], "uv_size": [-4.5, -6]},
+								"east": {"uv": [59.5, 64], "uv_size": [4.5, -6]},
+								"south": {"uv": [48, 64], "uv_size": [6, -64]},
+								"west": {"uv": [64, 64], "uv_size": [-4.5, -6]},
+								"up": {"uv": [59.5, 64], "uv_size": [4.5, -6]},
+								"down": {"uv": [64, 64], "uv_size": [-4.5, -6]}
+							}
+						},
+						{"origin": [-4.96411, -5.64784, -0.14292], "size": [3, 10, 2], "pivot": [0.85708, 7.02145, 0.85708], "rotation": [0, 0, -45], "uv": [0, 2]},
+						{"origin": [-1.47883, -0.89259, -0.14292], "size": [3, 8, 2], "inflate": -0.25, "pivot": [0.85708, 7.02145, 0.85708], "rotation": [0, 0, 7.5], "uv": [12, 8]},
+						{"origin": [-0.93436, 6.22992, 0.64852], "size": [2, 8, 2], "inflate": -0.25, "pivot": [0.85708, 7.02145, 0.85708], "rotation": [0, -45, 5], "uv": [7, 15], "mirror": true},
+						{"origin": [-0.14008, 0.92759, -0.14575], "size": [2, 6, 2], "inflate": -0.25, "pivot": [0.85708, 7.02145, 0.85708], "rotation": [0, -45, 50], "uv": [13, 37]},
+						{"origin": [2.56829, -2.28635, -2.85413], "size": [2, 6, 2], "pivot": [0.85708, 7.02145, 0.85708], "rotation": [0, -45, 50], "uv": [5, 37]},
+						{"origin": [-2.30679, 3.49874, 2.02095], "size": [2, 6, 2], "inflate": -0.5, "pivot": [0.85708, 7.02145, 0.85708], "rotation": [0, -45, 50], "uv": [22, 36]}
+					]
+				}
+			]
+		}
+	]
+}

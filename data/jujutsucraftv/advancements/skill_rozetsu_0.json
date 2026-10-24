@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:rozetsu_hand"
+    },
+    "title": {
+      "translate": "jjcv.skill.rozetsu.0"
+    },
+    "description": {
+      "translate": "jjcv.adv.skill_rozetsu_0b"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_rozetsu_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:jujutsu_craft_skills"
+}

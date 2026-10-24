@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/cursedtool_goldenblade",
+  "textures": {
+    "0": "jujutsucraftv:block/cursedtool_goldenblade",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

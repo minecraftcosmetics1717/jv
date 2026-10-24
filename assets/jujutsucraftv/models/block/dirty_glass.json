@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/dirty_glass",
+    "up": "jujutsucraftv:block/dirty_glass",
+    "north": "jujutsucraftv:block/dirty_glass",
+    "east": "jujutsucraftv:block/dirty_glass",
+    "south": "jujutsucraftv:block/dirty_glass",
+    "west": "jujutsucraftv:block/dirty_glass",
+    "particle": "jujutsucraftv:block/dirty_glass"
+  },
+  "render_type": "translucent"
+}

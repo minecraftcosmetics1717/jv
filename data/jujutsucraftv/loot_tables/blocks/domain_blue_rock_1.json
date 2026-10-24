@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "jujutsucraftv:blocks/domain_blue_rock_1",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jujutsucraftv:domain_blue_rock_1"
+        }
+      ]
+    }
+  ]
+}

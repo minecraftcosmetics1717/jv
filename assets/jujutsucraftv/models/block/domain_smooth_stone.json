@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/smooth_stone",
+    "up": "jujutsucraftv:block/smooth_stone",
+    "north": "jujutsucraftv:block/smooth_stone",
+    "east": "jujutsucraftv:block/smooth_stone",
+    "south": "jujutsucraftv:block/smooth_stone",
+    "west": "jujutsucraftv:block/smooth_stone",
+    "particle": "jujutsucraftv:block/smooth_stone"
+  },
+  "render_type": "solid"
+}

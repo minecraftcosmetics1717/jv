@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "jujutsucraftv:blocks/gray_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jujutsucraftv:gray_door",
+          "conditions": [
+            {
+              "block": "jujutsucraftv:gray_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

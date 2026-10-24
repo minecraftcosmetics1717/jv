@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "jujutsucraftv:structure_feature",
+          "config": {
+            "structure": "jujutsucraftv:decorative_rocks_1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:air"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "jujutsucraftv:structure_feature",
+          "config": {
+            "structure": "jujutsucraftv:decorative_rocks_2",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:air"
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

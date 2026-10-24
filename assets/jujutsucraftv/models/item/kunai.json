@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "jujutsucraftv:item/throwing_shriken2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/cursedtool_unnamed_axe",
+  "textures": {
+    "1": "jujutsucraftv:block/cursedtool_unnamed_axe",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

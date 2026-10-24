@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraftv:eye_patch_right_helmet"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraftv:eye_patch_left_helmet",
+    "count": 1
+  }
+}

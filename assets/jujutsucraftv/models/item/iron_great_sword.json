@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/iron_great_sword",
+  "textures": {
+    "1": "jujutsucraftv:block/iron_great_sword",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

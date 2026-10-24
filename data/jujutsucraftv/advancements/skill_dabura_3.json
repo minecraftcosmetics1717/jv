@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:icon_dabura_light"
+    },
+    "title": [
+      {
+        "translate": "effect.jujutsucraftv.effect_sublight_speed"
+      }
+    ],
+    "description": {
+      "translate": "jjcv.adv.gant_sorcerer_grade_1"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_dabura_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_dabura_2"
+}

@@ -1,0 +1,306 @@
+{
+  "vibraslap": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:biburasuratupu",
+        "stream": false
+      }
+    ]
+  },
+  "export_ofoct.com": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:export_ofoct.com",
+        "stream": false
+      }
+    ]
+  },
+  "guitar1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:picking-harmonics2",
+        "stream": false
+      }
+    ]
+  },
+  "guitar3": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:bending6",
+        "stream": false
+      }
+    ]
+  },
+  "guitar2": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:pick-scratch-trimmed_by_flexclip",
+        "stream": false
+      }
+    ]
+  },
+  "kagura_bell1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:shen_le_ling_1",
+        "stream": false
+      }
+    ]
+  },
+  "kagura_bell2": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:shen_le_ling_2",
+        "stream": false
+      }
+    ]
+  },
+  "djambe": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:zyannbedjambecant_use_other",
+        "stream": false
+      }
+    ]
+  },
+  "chrage_light": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:mo_fa_zhen_wozhan_kai_",
+        "stream": false
+      }
+    ]
+  },
+  "hachishakusama_voice": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:wu_ti_nodong_hua__-_clipchampdezuo_cheng__5",
+        "stream": false
+      }
+    ]
+  },
+  "strike_wood": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:gavel",
+        "stream": false
+      }
+    ]
+  },
+  "electrick_shock": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:electric_shock",
+        "stream": false
+      }
+    ]
+  },
+  "explosion1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:bao_fa__mp3cut.net",
+        "stream": false
+      }
+    ]
+  },
+  "crush": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:crush",
+        "stream": false
+      }
+    ]
+  },
+  "finger_snap": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc391775_zhi_patutin",
+        "stream": false
+      }
+    ]
+  },
+  "finger_snap2": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc306206_mo_fa_wokakeruzhi_patutin",
+        "stream": false
+      }
+    ]
+  },
+  "rope_strangulation": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc167182_se_ropu_ya_mi_patan2",
+        "stream": false
+      }
+    ]
+  },
+  "heavy_footsteps": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:guai_swu_nozu_yin_",
+        "stream": false
+      }
+    ]
+  },
+  "grind_metal": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:angle-grinder-313298",
+        "stream": false
+      }
+    ]
+  },
+  "beam_charge2": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc452229_tiyazizhong_di_yin_ji_tai_mo_pao_ji_yu_yun__bimuwoji_tuxiao_guo_yin_2",
+        "stream": false
+      }
+    ]
+  },
+  "beam1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc258253_bimu",
+        "stream": false
+      }
+    ]
+  },
+  "beam2": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc305433_bao_fa_yin__zudoooon",
+        "stream": false
+      }
+    ]
+  },
+  "beam_charge1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc452229_tiyazizhong_di_yin_ji_tai_mo_pao_ji_yu_yun__bimuwoji_tuxiao_guo_yin_",
+        "stream": false
+      }
+    ]
+  },
+  "blast1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc414555",
+        "stream": false
+      }
+    ]
+  },
+  "suction1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:yin_miip_mareruxi_iip_mareruyin_",
+        "stream": false
+      }
+    ]
+  },
+  "fly_sound1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:ani_ta_kasakasa01",
+        "stream": false
+      }
+    ]
+  },
+  "cursed_spirit_voice_1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:bandicam_2026-06-06_22-26-57-532",
+        "stream": false
+      }
+    ]
+  },
+  "purchased_vending_machine": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc417790_zi_dong_fan_mai_ji_deziyusuwomai_ushi_noyin_sono1",
+        "stream": false
+      }
+    ]
+  },
+  "light_saber_on": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc154033_raitosebafeng_qi_dong_yin__",
+        "stream": false
+      }
+    ]
+  },
+  "light_saber_off": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc154034_raitosebafeng_ting_zhi_yin__",
+        "stream": false
+      }
+    ]
+  },
+  "light_saber_swing": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc166939_raitosebafeng_suinguyin__5",
+        "stream": false
+      }
+    ]
+  },
+  "slash1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc270367_fu_dekou_kizhan_ruxiao_guo_yin_2",
+        "stream": false
+      }
+    ]
+  },
+  "heal1": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:heal00",
+        "stream": false
+      }
+    ]
+  },
+  "slash2": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:sword_sweep",
+        "stream": false
+      }
+    ]
+  },
+  "stone_crash": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:stone_crash",
+        "stream": false
+      }
+    ]
+  },
+  "bgm_nostalgia": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:jjcv-nostalgia_",
+        "stream": true
+      }
+    ]
+  },
+  "bgm_overcursed": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:jjcv_overcursed",
+        "stream": true
+      }
+    ]
+  },
+  "keyboard_sound": {
+    "sounds": [
+      {
+        "name": "jujutsucraftv:nc506009_kibodonotaipuyin_enteryin_ru_ri",
+        "stream": false
+      }
+    ]
+  }
+}

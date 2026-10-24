@@ -1,0 +1,20 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "beach",
+    "birch_forest",
+    "dark_forest",
+    "dripstone_caves",
+    "forest",
+    "old_growth_birch_forest",
+    "warped_forest",
+    "windswept_forest",
+    "lush_caves"
+  ],
+  "spawners": {
+    "type": "jujutsucraftv:small_shrine",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

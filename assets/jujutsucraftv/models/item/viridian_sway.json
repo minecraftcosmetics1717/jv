@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/cursedtool_fan_of_souls",
+  "textures": {
+    "0": "jujutsucraftv:block/cursedtool_fan_of_souls",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

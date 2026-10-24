@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/cursedtool_katana",
+  "textures": {
+    "0": "jujutsucraftv:block/cursedtool_katana_a",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

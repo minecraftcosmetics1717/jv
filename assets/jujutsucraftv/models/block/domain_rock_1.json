@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/brown_rock",
+    "up": "jujutsucraftv:block/brown_rock",
+    "north": "jujutsucraftv:block/brown_rock",
+    "east": "jujutsucraftv:block/brown_rock",
+    "south": "jujutsucraftv:block/brown_rock",
+    "west": "jujutsucraftv:block/brown_rock",
+    "particle": "jujutsucraftv:block/brown_rock"
+  },
+  "render_type": "solid"
+}

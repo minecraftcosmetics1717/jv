@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/sword_zenin_nobuaki",
+  "textures": {
+    "0": "jujutsucraftv:block/sword_zenin_nobuaki",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

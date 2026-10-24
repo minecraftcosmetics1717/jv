@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/rozetsu_hand",
+  "textures": {
+    "layer0": "jujutsucraftv:item/rouzetsu_armor"
+  }
+}

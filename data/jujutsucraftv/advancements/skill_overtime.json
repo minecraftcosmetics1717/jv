@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:nanami_wristwatch"
+    },
+    "title": {
+      "translate": "jjcv.skill.nanami1"
+    },
+    "description": {
+      "translate": "jjcv.adv.gant_sorcerer_grade_1_semi"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_overtime": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_collapse"
+}

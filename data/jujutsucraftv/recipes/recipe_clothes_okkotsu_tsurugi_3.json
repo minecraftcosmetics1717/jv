@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraftv:clothes_okkotsu_tsurugi_3_chestplate"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraftv:clothes_okkotsu_tsurugi_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/old_hammer",
+  "textures": {
+    "2": "jujutsucraftv:block/old_hammer",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

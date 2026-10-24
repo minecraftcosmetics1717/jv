@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/steel_gauntlet",
+  "textures": {
+    "2": "jujutsucraftv:block/steel_gauntlet",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

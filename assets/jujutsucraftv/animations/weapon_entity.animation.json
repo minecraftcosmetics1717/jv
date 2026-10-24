@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.25,
+			"bones": {
+				"right_arm": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, -360, 90]
+						},
+						"0.25": {
+							"vector": [360, -360, 90]
+						}
+					},
+					"position": {
+						"vector": [0, -1, 0]
+					}
+				}
+			}
+		}
+	}
+}

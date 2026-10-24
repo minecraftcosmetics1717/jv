@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/basalt_top",
+    "up": "jujutsucraftv:block/basalt_top",
+    "north": "jujutsucraftv:block/basalt_top",
+    "east": "jujutsucraftv:block/basalt_top",
+    "south": "jujutsucraftv:block/basalt_top",
+    "west": "jujutsucraftv:block/basalt_top",
+    "particle": "jujutsucraftv:block/basalt_top"
+  },
+  "render_type": "solid"
+}

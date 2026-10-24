@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/demon_sword_bracelet_superhuman_strength",
+  "textures": {
+    "2": "jujutsucraftv:block/demon_sword_bracelet_superhuman_strength",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

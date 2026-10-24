@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "jujutsucraftv:font/icon_light_and_censored.png",
+            "ascent": 16,
+            "height": 26,
+            "chars": [
+                "\uE210"
+            ]
+        }
+    ]
+}

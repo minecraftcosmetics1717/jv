@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/night_sky",
+    "up": "jujutsucraftv:block/night_sky",
+    "north": "jujutsucraftv:block/night_sky",
+    "east": "jujutsucraftv:block/night_sky",
+    "south": "jujutsucraftv:block/night_sky",
+    "west": "jujutsucraftv:block/night_sky",
+    "particle": "jujutsucraftv:block/night_sky"
+  },
+  "render_type": "solid"
+}

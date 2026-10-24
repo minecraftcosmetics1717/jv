@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.plojectile_scaffold",
+				"texture_width": 8,
+				"texture_height": 8,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [0, 1.5, 0],
+					"cubes": [
+						{
+							"origin": [-5, 0, -5],
+							"size": [10, 3, 10],
+							"uv": {
+								"north": {"uv": [0, 2], "uv_size": [8, 3]},
+								"east": {"uv": [0, 2], "uv_size": [8, 3]},
+								"south": {"uv": [0, 2], "uv_size": [8, 3]},
+								"west": {"uv": [0, 2], "uv_size": [8, 3]},
+								"up": {"uv": [8, 8], "uv_size": [-8, -8]},
+								"down": {"uv": [8, 8], "uv_size": [-8, -8]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

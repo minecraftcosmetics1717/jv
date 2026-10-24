@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jujutsucraftv:item/curse_color_changer_icon"
+  }
+}

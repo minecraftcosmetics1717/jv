@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "jujutsucraftv:block/rock_barrier_tree",
+    "particle": "jujutsucraftv:block/rock_barrier_tree"
+  },
+  "render_type": "solid"
+}

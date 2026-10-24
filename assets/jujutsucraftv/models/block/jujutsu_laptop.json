@@ -1,0 +1,9 @@
+{
+  "parent": "jujutsucraftv:custom/block_note_pc",
+  "textures": {
+    "all": "jujutsucraftv:block/block_note_pc",
+    "particle": "jujutsucraftv:block/block_note_pc",
+    "0": "jujutsucraftv:block/block_note_pc"
+  },
+  "render_type": "solid"
+}

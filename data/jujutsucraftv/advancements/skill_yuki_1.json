@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:foundation_stone"
+    },
+    "title": {
+      "translate": "jjcv.skill.yuki.1"
+    },
+    "description": {
+      "translate": "jjcv.adv.skill_yuki_0b"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_yuki_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_yuki_0"
+}

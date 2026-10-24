@@ -1,0 +1,30 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"saber": {
+					"scale": {
+						"vector": [1, 0, 1]
+					}
+				}
+			}
+		},
+		"act": {
+			"loop": true,
+			"bones": {
+				"saber": {
+					"scale": {
+						"0.0": {
+							"post": {
+								"vector": ["math.random(1,1.05)", "math.random(1,1.05)", "math.random(1,1.05)"]
+							},
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

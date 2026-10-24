@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/black_knife",
+  "textures": {
+    "layer0": "jujutsucraftv:item/black_knife"
+  }
+}

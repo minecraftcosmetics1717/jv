@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/cleaver_kakuron",
+  "textures": {
+    "1": "jujutsucraftv:block/cleaver_kakuron",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

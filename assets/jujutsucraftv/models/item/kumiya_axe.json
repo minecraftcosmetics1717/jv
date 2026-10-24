@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/kumiya_axe",
+  "textures": {
+    "2": "jujutsucraftv:block/kumiya_axe",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

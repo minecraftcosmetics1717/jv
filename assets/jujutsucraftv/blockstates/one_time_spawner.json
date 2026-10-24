@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "jujutsucraftv:block/one_time_spawner"
+    }
+  }
+}

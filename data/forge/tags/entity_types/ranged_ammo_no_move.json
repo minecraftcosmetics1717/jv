@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "jujutsucraftv:blindness_domain_object",
+    "jujutsucraftv:clone_domain_object",
+    "jujutsucraftv:entity_spine",
+    "jujutsucraftv:domain_object_endress_echoes_1",
+    "jujutsucraftv:domain_object_endress_echoes_2",
+    "jujutsucraftv:domain_object_endress_echoes_3",
+    "jujutsucraftv:plojectile_barrier_1",
+    "jujutsucraftv:plojectile_explosion",
+    "jujutsucraftv:plojectile_barrier_2",
+    "jujutsucraftv:entity_hanging_rope",
+    "jujutsucraftv:entity_binding_rope",
+    "jujutsucraftv:domain_object_dabura",
+    "jujutsucraftv:plojectile_nostalgia_hand_large",
+    "jujutsucraftv:plojectile_nostalgia_hand_small",
+    "jujutsucraftv:plojectile_barrier_4"
+  ]
+}

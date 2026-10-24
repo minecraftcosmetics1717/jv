@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/night_of_fire_art",
+  "textures": {
+    "layer0": "jujutsucraftv:item/night_of_fire_art"
+  }
+}

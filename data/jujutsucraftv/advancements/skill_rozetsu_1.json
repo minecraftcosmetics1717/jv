@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherrack"
+    },
+    "title": {
+      "translate": "entity.jujutsucraft.rozetsu_shikigami"
+    },
+    "description": {
+      "translate": "jjcv.adv.skill_rozetsu_0b"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_rozetsu_1": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_rozetsu_0"
+}

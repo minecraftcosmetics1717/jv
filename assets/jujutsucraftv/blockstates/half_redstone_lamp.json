@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jujutsucraftv:block/half_redstone_lamp"
+    },
+    "type=top": {
+      "model": "jujutsucraftv:block/half_redstone_lamp_top"
+    },
+    "type=double": {
+      "model": "jujutsucraftv:block/half_redstone_lamp_full"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/pigo1",
+    "up": "jujutsucraftv:block/pigo1",
+    "north": "jujutsucraftv:block/pigo2",
+    "east": "jujutsucraftv:block/pigo2",
+    "south": "jujutsucraftv:block/pigo2",
+    "west": "jujutsucraftv:block/pigo2",
+    "particle": "jujutsucraftv:block/pigo1"
+  },
+  "render_type": "solid"
+}

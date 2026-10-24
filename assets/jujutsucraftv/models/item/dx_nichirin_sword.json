@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/dx_nichirinsword",
+  "textures": {
+    "0": "jujutsucraftv:block/dx_nichirinsword",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

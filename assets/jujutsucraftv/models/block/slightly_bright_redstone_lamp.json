@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/redstone_lamp_on",
+    "up": "jujutsucraftv:block/redstone_lamp_on",
+    "north": "jujutsucraftv:block/redstone_lamp_on",
+    "east": "jujutsucraftv:block/redstone_lamp_on",
+    "south": "jujutsucraftv:block/redstone_lamp_on",
+    "west": "jujutsucraftv:block/redstone_lamp_on",
+    "particle": "jujutsucraftv:block/redstone_lamp_on"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraft:recommendation_2"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraftv:demotion_order_1",
+    "count": 1
+  }
+}

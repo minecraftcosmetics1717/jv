@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/nostalgist_hand",
+  "textures": {
+    "particle": "jujutsucraftv:block/dark_smooth_stone"
+  }
+}

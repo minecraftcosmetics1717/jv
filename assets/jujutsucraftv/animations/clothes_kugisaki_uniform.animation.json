@@ -1,0 +1,149 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"eye_band": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"walk": {
+			"loop": true,
+			"animation_length": 1.5,
+			"bones": {
+				"left_skirt_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"left_skirt2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [5, 0, 0]
+						},
+						"1.5": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"left_skirt2_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"right_skirt_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"right_skirt2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [5, 0, 0]
+						},
+						"1.5": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"right_skirt2_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"eye_band": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"sprint": {
+			"loop": true,
+			"animation_length": 0.5,
+			"bones": {
+				"left_skirt": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"left_skirt_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"left_skirt2": {
+					"rotation": {
+						"0.0": {
+							"vector": [9.96087, -0.91075, -0.07537]
+						},
+						"0.25": {
+							"vector": [4.95366, -0.69527, 2.47202]
+						},
+						"0.5": {
+							"vector": [9.96087, -0.91075, -0.07537]
+						}
+					}
+				},
+				"left_skirt2_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"right_skirt": {
+					"rotation": {
+						"vector": [10, 0, 0]
+					}
+				},
+				"right_skirt_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"right_skirt2": {
+					"rotation": {
+						"0.0": {
+							"vector": [9.96087, 0.91075, 0.07537]
+						},
+						"0.25": {
+							"vector": [4.95366, 0.69527, -2.47202]
+						},
+						"0.5": {
+							"vector": [9.96087, 0.91075, 0.07537]
+						}
+					}
+				},
+				"right_skirt2_up": {
+					"scale": {
+						"vector": [1, 0.01, 1]
+					}
+				},
+				"eye_band": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"idle2": {
+			"loop": true,
+			"bones": {
+				"eye_band2": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

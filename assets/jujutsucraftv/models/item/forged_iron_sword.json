@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/cursedtool_ancient_sword",
+  "textures": {
+    "0": "jujutsucraftv:block/cursedtool_ancient_sword",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

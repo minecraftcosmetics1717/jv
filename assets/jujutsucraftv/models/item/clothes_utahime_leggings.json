@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jujutsucraftv:item/clothes_utahime1"
+  }
+}

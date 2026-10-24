@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "jujutsucraftv:blocks/slightly_bright_redstone_lamp",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jujutsucraftv:slightly_bright_redstone_lamp"
+        }
+      ]
+    }
+  ]
+}

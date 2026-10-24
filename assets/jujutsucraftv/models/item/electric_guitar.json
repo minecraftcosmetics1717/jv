@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/electric_guitar",
+  "textures": {
+    "layer0": "jujutsucraftv:item/electric_guitar"
+  }
+}

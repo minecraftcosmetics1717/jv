@@ -1,0 +1,25 @@
+{
+  "feature": "jujutsucraftv:decorative_rocks",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 6
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
+    },
+    {
+      "type": "minecraft:surface_relative_threshold_filter",
+      "heightmap": "OCEAN_FLOOR_WG",
+      "min_inclusive": -3,
+      "max_inclusive": 3
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

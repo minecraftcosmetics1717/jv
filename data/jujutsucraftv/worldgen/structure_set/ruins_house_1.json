@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "jujutsucraftv:ruins_house_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 1,
+    "frequency_reduction_method": "default",
+    "salt": 871531358,
+    "spacing": 45,
+    "separation": 30
+  }
+}

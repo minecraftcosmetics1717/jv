@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "jujutsucraftv:curse_user_log_cabin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 1,
+    "frequency_reduction_method": "default",
+    "salt": 455219463,
+    "spacing": 80,
+    "separation": 50
+  }
+}

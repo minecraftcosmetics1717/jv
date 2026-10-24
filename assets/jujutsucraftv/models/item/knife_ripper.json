@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/cursedtool_ripper_knife",
+  "textures": {
+    "1": "jujutsucraftv:block/cursedtool_ripper_knife",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

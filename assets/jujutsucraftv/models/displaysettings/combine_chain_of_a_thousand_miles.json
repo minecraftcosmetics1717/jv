@@ -1,0 +1,149 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    64,
+    64
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -110.15,
+        16.13,
+        -153.7
+      ],
+      "translation": [
+        0.25,
+        -0.75,
+        1.5
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        107.42,
+        -14.74,
+        26.7
+      ],
+      "translation": [
+        4.75,
+        -3.75,
+        2.75
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        168.4,
+        -25.32,
+        43.49
+      ],
+      "translation": [
+        5,
+        -0.25,
+        -6
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        168.4,
+        -25.32,
+        43.49
+      ],
+      "translation": [
+        5,
+        -0.25,
+        -6
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -25.32,
+        5.91,
+        -25.93
+      ],
+      "translation": [
+        0,
+        -5.5,
+        2
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        96,
+        80.75,
+        90
+      ],
+      "translation": [
+        0.25,
+        0,
+        0
+      ],
+      "scale": [
+        2.5,
+        2.5,
+        2.5
+      ]
+    },
+    "head": {
+      "rotation": [
+        15,
+        0,
+        0
+      ],
+      "translation": [
+        -5.25,
+        -25.25,
+        3.75
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -87.5,
+        3.12,
+        -84.83
+      ],
+      "translation": [
+        0,
+        2.5,
+        -5.5
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  "textures": {
+    "particle": "item/combine_chain_of_a_thousand_miles"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "jujutsucraftv:block/dirty_glass",
+    "edge": "jujutsucraftv:block/dirty_glass",
+    "pane": "jujutsucraftv:block/dirty_glass"
+  },
+  "render_type": "translucent"
+}

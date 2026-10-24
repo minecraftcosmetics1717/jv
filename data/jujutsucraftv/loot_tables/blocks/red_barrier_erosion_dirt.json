@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "jujutsucraftv:blocks/red_barrier_erosion_dirt",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jujutsucraftv:red_barrier_erosion_dirt"
+        }
+      ]
+    }
+  ]
+}

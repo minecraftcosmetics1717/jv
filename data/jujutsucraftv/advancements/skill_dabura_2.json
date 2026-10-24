@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:icon_dabura_light"
+    },
+    "title": [
+      {
+        "text": "\uE210"
+      },
+      {
+        "translate": "jjcv.skill.dabura.1"
+      },
+      {
+        "translate": "jjcv.skill.add.2"
+      }
+    ],
+    "description": {
+      "translate": "jjcv.adv.gant_sorcerer_grade_1_semi"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_dabura_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_dabura_1"
+}

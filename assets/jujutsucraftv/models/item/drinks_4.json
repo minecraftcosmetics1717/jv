@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/plastic_bottle",
+  "textures": {
+    "layer0": "jujutsucraftv:item/plastic_bottle_water_special_grade_tea"
+  }
+}

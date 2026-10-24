@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/yukis_knife",
+  "textures": {
+    "1": "jujutsucraftv:block/yukis_knife",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

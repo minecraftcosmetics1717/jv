@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/prismarine",
+    "up": "jujutsucraftv:block/prismarine",
+    "north": "jujutsucraftv:block/prismarine",
+    "east": "jujutsucraftv:block/prismarine",
+    "south": "jujutsucraftv:block/prismarine",
+    "west": "jujutsucraftv:block/prismarine",
+    "particle": "jujutsucraftv:block/prismarine"
+  },
+  "render_type": "solid"
+}

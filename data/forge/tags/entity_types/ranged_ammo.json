@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "jujutsucraftv:plojectile_slash",
+    "jujutsucraftv:plojectile_crystal",
+    "jujutsucraftv:plojectile_barrier_0",
+    "jujutsucraftv:plojectile_barrier_1",
+    "jujutsucraftv:plojectile_explosion",
+    "jujutsucraftv:plojectile_eyeball",
+    "jujutsucraftv:plojectile_six_eyeball",
+    "jujutsucraftv:plojectile_tooth",
+    "jujutsucraftv:plojectile_barrier_2",
+    "jujutsucraftv:knife",
+    "jujutsucraftv:entity_hanging_rope",
+    "jujutsucraftv:entity_binding_rope",
+    "jujutsucraftv:plojectile_light",
+    "jujutsucraftv:plojectile_light_tower",
+    "jujutsucraftv:plojectile_barrier_3",
+    "jujutsucraftv:entity_spine",
+    "jujutsucraftv:plojectile_nostalgia_hand_large",
+    "jujutsucraftv:plojectile_nostalgia_hand_small",
+    "jujutsucraftv:shikigami_finger_fly",
+    "jujutsucraftv:plojectile_barrier_4",
+    "jujutsucraftv:entity_weapon",
+    "jujutsucraftv:plojectile_slash_kakuron"
+  ]
+}

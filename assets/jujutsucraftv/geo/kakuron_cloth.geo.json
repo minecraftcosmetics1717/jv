@@ -1,0 +1,72 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.kakuron_cloth",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "armorHead",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 24, -4], "size": [8, 8, 8], "inflate": 0.6, "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "armorBody",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 12, -2], "size": [8, 12, 4], "inflate": 0.27, "uv": [40, 0]},
+						{"origin": [-4, 16, -2], "size": [8, 8, 4], "inflate": 0.27, "uv": [0, 16]}
+					]
+				},
+				{
+					"name": "move",
+					"parent": "armorBody",
+					"pivot": [0, 15.7, -2.35],
+					"cubes": [
+						{
+							"origin": [-4, 9.46, -2.05],
+							"size": [8, 6.25, 4],
+							"inflate": 0.27,
+							"uv": {
+								"north": {"uv": [4, 29.625], "uv_size": [8, 6.25]},
+								"east": {"uv": [0, 29.875], "uv_size": [4, 6]},
+								"south": {"uv": [16, 29.875], "uv_size": [8, 6]},
+								"west": {"uv": [12, 29.875], "uv_size": [4, 6]},
+								"up": {"uv": [12.375, 21.25], "uv_size": [3.25, 4]},
+								"down": {"uv": [56, 4], "uv_size": [8, -4]}
+							}
+						}
+					]
+				},
+				{
+					"name": "move2",
+					"parent": "move",
+					"pivot": [0, 9.31, -2.35],
+					"cubes": [
+						{
+							"origin": [-4, 4.96, -2.1],
+							"size": [8, 4.25, 4],
+							"inflate": 0.27,
+							"uv": {
+								"north": {"uv": [4, 35.75], "uv_size": [8, 4.25]},
+								"east": {"uv": [0, 36], "uv_size": [4, 4]},
+								"south": {"uv": [16, 36], "uv_size": [8, 4]},
+								"west": {"uv": [12, 36], "uv_size": [4, 4]},
+								"up": {"uv": [12.375, 21.125], "uv_size": [3.25, 4.125]},
+								"down": {"uv": [56, 4], "uv_size": [8, -4]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/block_domain_beehive_floor_botom",
+    "up": "jujutsucraftv:block/block_domain_beehive_floor_top",
+    "north": "jujutsucraftv:block/block_domain_beehive_floor_south",
+    "east": "jujutsucraftv:block/block_domain_beehive_floor_west",
+    "south": "jujutsucraftv:block/block_domain_beehive_floor_north",
+    "west": "jujutsucraftv:block/block_domain_beehive_floor_east",
+    "particle": "jujutsucraftv:block/block_domain_beehive_floor_botom"
+  },
+  "render_type": "solid"
+}

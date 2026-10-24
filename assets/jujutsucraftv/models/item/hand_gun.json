@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/pistol",
+  "textures": {
+    "0": "jujutsucraftv:block/gun_base",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

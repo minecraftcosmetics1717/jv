@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "jujutsucraftv:domain_tnt",
+    "jujutsucraftv:domain_red_rock_1",
+    "jujutsucraftv:domain_red_rock_2",
+    "jujutsucraftv:domain_rock_1",
+    "jujutsucraftv:domain_blue_rock_1",
+    "jujutsucraftv:domain_smooth_stone",
+    "jujutsucraftv:domain_clay",
+    "jujutsucraftv:domain_drum",
+    "jujutsucraftv:domain_dark_smooth_stone",
+    "jujutsucraftv:domain_blue_magma_1",
+    "jujutsucraftv:domain_blue_magma_2",
+    "jujutsucraftv:domain_rock_2",
+    "jujutsucraftv:domain_beehive_1",
+    "jujutsucraftv:domain_beehive_2",
+    "jujutsucraftv:domain_orange_block",
+    "jujutsucraftv:domain_pale_orange_block",
+    "jujutsucraftv:domain_sky_blue",
+    "jujutsucraftv:domain_sky_night",
+    "jujutsucraftv:domain_sky_eye"
+  ]
+}

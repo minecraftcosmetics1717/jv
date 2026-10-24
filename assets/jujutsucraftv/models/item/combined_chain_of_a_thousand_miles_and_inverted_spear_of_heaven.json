@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/combine_chain_of_a_thousand_miles",
+  "textures": {
+    "layer0": "jujutsucraftv:item/combine_chain_of_a_thousand_miles"
+  }
+}

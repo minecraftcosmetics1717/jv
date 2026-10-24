@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/rindou_fist",
+  "textures": {
+    "2": "jujutsucraftv:block/rindou_fist",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

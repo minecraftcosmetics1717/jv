@@ -1,0 +1,64 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0,
+  "effects": {
+    "particle": {
+      "options": {
+        "type": "jujutsucraftv:particle_vermilion_ash"
+      },
+      "probability": 0.001
+    },
+    "foliage_color": -16171766,
+    "grass_color": -15972596,
+    "sky_color": -12371885,
+    "fog_color": -3643773,
+    "water_color": -11972224,
+    "water_fog_color": -11972224
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "jujutsucraftv:rock_barrier_tree_set",
+      "jujutsucraftv:decorative_rocks"
+    ],
+    [],
+    [
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma"
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

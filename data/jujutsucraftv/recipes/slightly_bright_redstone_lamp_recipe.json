@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraftv:bright_redstone_lamp"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraftv:slightly_bright_redstone_lamp",
+    "count": 1
+  }
+}

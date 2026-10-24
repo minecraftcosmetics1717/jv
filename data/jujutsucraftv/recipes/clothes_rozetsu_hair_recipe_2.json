@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraftv:clothes_rozetsu_2_helmet"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraftv:clothes_rozetsu_helmet",
+    "count": 1
+  }
+}

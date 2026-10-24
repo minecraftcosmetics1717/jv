@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/domain_blue_flame",
+    "up": "jujutsucraftv:block/domain_blue_flame",
+    "north": "jujutsucraftv:block/domain_blue_flame",
+    "east": "jujutsucraftv:block/domain_blue_flame",
+    "south": "jujutsucraftv:block/domain_blue_flame",
+    "west": "jujutsucraftv:block/domain_blue_flame",
+    "particle": "jujutsucraftv:block/domain_blue_flame"
+  },
+  "render_type": "solid"
+}

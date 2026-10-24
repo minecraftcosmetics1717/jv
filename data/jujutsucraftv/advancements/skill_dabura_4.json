@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraftv:icon_dabura_dark"
+    },
+    "title": [
+      {
+        "translate": "jjcv.skill.ct.reverse"
+      },
+      {
+        "text": "\uE210"
+      }
+    ],
+    "description": [
+      {
+      "translate": "jjcv.adv.gant_reverse_cursed_technique_add"
+      },
+      {
+      "translate": "jjcv.adv.gant_sorcerer_grade_1"
+      }
+    ],
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_dabura_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_dabura_0"
+}

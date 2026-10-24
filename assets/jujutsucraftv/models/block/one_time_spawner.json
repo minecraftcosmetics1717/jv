@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/single_spawner",
+    "up": "jujutsucraftv:block/single_spawner",
+    "north": "jujutsucraftv:block/single_spawner",
+    "east": "jujutsucraftv:block/single_spawner",
+    "south": "jujutsucraftv:block/single_spawner",
+    "west": "jujutsucraftv:block/single_spawner",
+    "particle": "jujutsucraftv:block/single_spawner"
+  },
+  "render_type": "translucent"
+}

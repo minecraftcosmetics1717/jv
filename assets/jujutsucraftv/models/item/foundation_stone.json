@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/foundation_stone",
+  "textures": {
+    "layer0": "jujutsucraftv:item/foundation_stone"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/red_sandstone_top",
+    "up": "jujutsucraftv:block/red_sandstone_top",
+    "north": "jujutsucraftv:block/red_sandstone_top",
+    "east": "jujutsucraftv:block/red_sandstone_top",
+    "south": "jujutsucraftv:block/red_sandstone_top",
+    "west": "jujutsucraftv:block/red_sandstone_top",
+    "particle": "jujutsucraftv:block/red_sandstone_top"
+  },
+  "render_type": "solid"
+}

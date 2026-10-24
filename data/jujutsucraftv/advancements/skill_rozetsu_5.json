@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:sukuna_finger"
+    },
+    "title": {
+      "translate": "jjcv.skill.rozetsu.9"
+    },
+    "description": {
+      "translate": "jjcv.adv.skill_rozetsu_5b"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_rozetsu_5": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraftv:skill_rozetsu_2"
+}

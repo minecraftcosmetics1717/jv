@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jujutsucraftv:block/block_pale_orange",
+    "up": "jujutsucraftv:block/block_pale_orange",
+    "north": "jujutsucraftv:block/block_pale_orange",
+    "east": "jujutsucraftv:block/block_pale_orange",
+    "south": "jujutsucraftv:block/block_pale_orange",
+    "west": "jujutsucraftv:block/block_pale_orange",
+    "particle": "jujutsucraftv:block/block_pale_orange"
+  },
+  "render_type": "solid"
+}

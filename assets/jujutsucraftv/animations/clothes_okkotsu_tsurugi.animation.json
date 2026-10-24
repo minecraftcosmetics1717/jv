@@ -1,0 +1,73 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"bones": {
+				"bag": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"idle2": {
+			"loop": true,
+			"bones": {
+				"bag2": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"idle3": {
+			"loop": true,
+			"bones": {
+				"bag2": {
+					"rotation": {
+						"vector": [-22.0425, -70.2069, -3.1207]
+					}
+				}
+			}
+		},
+		"walk3": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"bag2": {
+					"rotation": {
+						"0.0": {
+							"vector": [-42.5, -12.5, 0]
+						},
+						"0.5": {
+							"vector": [-37.5175, -2.3491, 0.8555]
+						},
+						"1.0": {
+							"vector": [-42.5, -12.5, 0]
+						}
+					}
+				}
+			}
+		},
+		"sprint3": {
+			"loop": true,
+			"animation_length": 0.5,
+			"bones": {
+				"bag2": {
+					"rotation": {
+						"0.0": {
+							"vector": [-20.0175, -2.3491, 0.8555]
+						},
+						"0.25": {
+							"vector": [-10.0175, -2.3491, 0.8555]
+						},
+						"0.5": {
+							"vector": [-20.0175, -2.3491, 0.8555]
+						}
+					}
+				}
+			}
+		}
+	}
+}

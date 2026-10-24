@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/sword_samurai_armor",
+  "textures": {
+    "0": "jujutsucraftv:block/sword_samurai_armor",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

@@ -1,0 +1,7 @@
+
+{
+  "parent": "jujutsucraftv:displaysettings/vending_machine",
+  "textures": {
+    "particle": "jujutsucraftv:block/vending_machine1"
+  }
+}

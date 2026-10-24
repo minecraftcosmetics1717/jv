@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/curse_spirit_obliteration_sword",
+  "textures": {
+    "1": "jujutsucraftv:block/curse_spirit_obliteration_sword",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

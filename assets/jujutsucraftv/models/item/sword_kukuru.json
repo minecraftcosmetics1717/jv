@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/sword_kukuru",
+  "textures": {
+    "1": "jujutsucraftv:block/sword_kukuru",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "jujutsucraftv:displaysettings/sharpened_playful_cloud",
+  "textures": {
+    "layer0": "jujutsucraftv:item/playful_cloud2"
+  }
+}

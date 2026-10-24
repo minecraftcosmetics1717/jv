@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "b": {
+      "item": "minecraft:iron_door"
+    }
+  },
+  "result": {
+    "item": "jujutsucraftv:gray_door",
+    "count": 1
+  }
+}

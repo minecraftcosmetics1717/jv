@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:redstone_lamp"
+    }
+  },
+  "result": {
+    "item": "jujutsucraftv:bright_redstone_lamp",
+    "count": 1
+  }
+}

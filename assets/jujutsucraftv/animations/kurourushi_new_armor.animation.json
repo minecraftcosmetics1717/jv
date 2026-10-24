@@ -1,0 +1,312 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"animation_length": 4.8,
+			"bones": {
+				"armorHead": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [2.5, 0, 0]
+						},
+						"4.8": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"armorBody": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.4": {
+							"vector": [0, 0, 0]
+						}
+					},
+					"scale": {
+						"vector": [1, 1.1, 1]
+					}
+				},
+				"RightBodyArm": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"armorRightArm": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"armorLeftLeg": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"armorLeftArm": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"LeftBodyArm": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"wing": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"RightLeg_Lib": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"walk": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"armorHead": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"armorBody": {
+					"rotation": {
+						"vector": [0, "Math.sin(query.anim_time*720)*10", 0]
+					}
+				},
+				"RightBodyArm": {
+					"rotation": {
+						"vector": ["Math.sin(query.anim_time*480)*5", 0, 0]
+					}
+				},
+				"right_body_arm_lib": {
+					"rotation": {
+						"vector": ["45+Math.sin(query.anim_time*720)*-40", 67.5, 112.49999]
+					}
+				},
+				"right_body_arm_hand": {
+					"rotation": {
+						"vector": [0, 45, "0+Math.sin(query.anim_time*720)*40"]
+					}
+				},
+				"right_wings": {
+					"rotation": {
+						"vector": [0, 0, -135]
+					}
+				},
+				"right_wings2": {
+					"rotation": {
+						"vector": [0, 0, -67.5]
+					}
+				},
+				"left_wings": {
+					"rotation": {
+						"vector": [0, 0, 135]
+					}
+				},
+				"armorRightArm": {
+					"rotation": {
+						"vector": ["Math.sin(query.anim_time*720)*5", 0, 0]
+					},
+					"position": {
+						"vector": [-0.04767, 0.0279, -0.24382]
+					}
+				},
+				"right_arm_lib": {
+					"rotation": {
+						"vector": [-45, "0-Math.sin(query.anim_time*720)*25", "90+Math.sin(query.anim_time*720)*45"]
+					}
+				},
+				"right_arm_hand": {
+					"rotation": {
+						"vector": ["90+Math.sin(query.anim_time*720)*45", -67.5, -90]
+					}
+				},
+				"armorLeftLeg": {
+					"rotation": {
+						"vector": ["22.5+Math.sin(query.anim_time*720)*-90", -7.5, 0]
+					}
+				},
+				"armorLeftArm": {
+					"rotation": {
+						"vector": ["Math.sin(query.anim_time*720)*5", 0, 0]
+					},
+					"position": {
+						"vector": [0.04767, 0.0279, -0.24382]
+					}
+				},
+				"left_arm_lib": {
+					"rotation": {
+						"vector": [-45, "0-Math.sin(query.anim_time*720)*25", "-90+Math.sin(query.anim_time*720)*45"]
+					}
+				},
+				"left_arm_hand": {
+					"rotation": {
+						"vector": ["45+Math.sin(query.anim_time*720)*-45", 67.5, 90]
+					}
+				},
+				"LeftBodyArm": {
+					"rotation": {
+						"vector": ["Math.sin(query.anim_time*480)*5", 0, 0]
+					}
+				},
+				"left_body_arm_lib": {
+					"rotation": {
+						"vector": ["45+Math.sin(query.anim_time*720)*40", -67.5, -112.49999]
+					}
+				},
+				"left_body_arm_hand": {
+					"rotation": {
+						"vector": [0, -45, "0+Math.sin(query.anim_time*720)*-40"]
+					}
+				},
+				"LeftLeg_Lib": {
+					"rotation": {
+						"vector": ["35+Math.sin(query.anim_time*720)*45", 0, 0]
+					}
+				},
+				"armorRightLeg": {
+					"rotation": {
+						"vector": ["22.5+Math.sin(query.anim_time*720)*90", 7.5, 0]
+					}
+				},
+				"RightLeg_Lib": {
+					"rotation": {
+						"vector": ["35+Math.sin(query.anim_time*720)*-45", 0, 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [22.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, "Math.sin(query.anim_time*1440)*0.5", 0]
+					}
+				},
+				"undefined": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [0, 0, -67.5]
+						}
+					}
+				},
+				"left_wings2": {
+					"rotation": {
+						"vector": [0, 0, 67.5]
+					}
+				}
+			}
+		},
+		"sprint": {
+			"loop": true,
+			"animation_length": 6,
+			"bones": {
+				"armorHead": {
+					"rotation": {
+						"vector": [-45, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, -1.41421]
+					}
+				},
+				"armorBody": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"right_body_arm_lib": {
+					"rotation": {
+						"vector": [-67.5, 0, 0]
+					}
+				},
+				"right_wings": {
+					"rotation": {
+						"vector": [0, 0, "Math.sin(query.anim_time*4800)*25"]
+					}
+				},
+				"right_wings2": {
+					"rotation": {
+						"vector": [0, 0, "Math.sin(query.anim_time*4800)*-25"]
+					}
+				},
+				"left_wings": {
+					"rotation": {
+						"vector": [0, 0, "Math.sin(query.anim_time*4800)*-25"]
+					}
+				},
+				"right_arm_lib": {
+					"rotation": {
+						"vector": [0, -67.5, 0]
+					}
+				},
+				"armorLeftLeg": {
+					"rotation": {
+						"vector": [9.90022, -9.62864, -17.19793]
+					}
+				},
+				"left_arm_lib": {
+					"rotation": {
+						"vector": [0, 67.5, 0]
+					}
+				},
+				"left_body_arm_lib": {
+					"rotation": {
+						"vector": [-67.5, 0, 0]
+					}
+				},
+				"wing": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"LeftLeg_Lib": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"armorRightLeg": {
+					"rotation": {
+						"vector": [9.90022, 9.62864, 17.19793]
+					}
+				},
+				"RightLeg_Lib": {
+					"rotation": {
+						"vector": [67.5, 0, 0]
+					}
+				},
+				"bone": {
+					"position": {
+						"vector": [0, "Math.sin(query.anim_time*4800)*-0.1", 0]
+					}
+				},
+				"upper_body": {
+					"rotation": {
+						"vector": [45, 0, 0]
+					}
+				},
+				"undefined": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [0, 0, 0.01]
+				},
+				"left_wings2": {
+					"rotation": {
+						"vector": [0, 0, "-(Math.sin(query.anim_time*4800)*-25)"]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jujutsucraftv:custom/nostalgist_hand_particle"
+    },
+    "facing=east": {
+      "model": "jujutsucraftv:custom/nostalgist_hand_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jujutsucraftv:custom/nostalgist_hand_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jujutsucraftv:custom/nostalgist_hand_particle",
+      "y": 270
+    }
+  }
+}

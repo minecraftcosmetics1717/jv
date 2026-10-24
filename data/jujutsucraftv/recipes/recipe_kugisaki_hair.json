@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraftv:uniform_kugisaki_helmet"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraftv:uniform_kugisaki_2_helmet",
+    "count": 1
+  }
+}

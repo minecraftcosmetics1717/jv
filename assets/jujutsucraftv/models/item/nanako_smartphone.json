@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraftv:custom/nanako_smartphone",
+  "textures": {
+    "2": "jujutsucraftv:block/nanako_smartphone",
+    "particle": "jujutsucraftv:item/sword"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left_open",
+  "textures": {
+    "particle": "jujutsucraftv:block/tomb_of_star_black_door_top",
+    "bottom": "jujutsucraftv:block/tomb_of_star_black_door_bottom",
+    "top": "jujutsucraftv:block/tomb_of_star_black_door_top"
+  },
+  "render_type": "solid"
+}
